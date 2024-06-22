@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 22 15:56:39 GFT 2024","Sat Jun 22 15:56:40 GFT 2024","928","tarefas","cadastro","","","","não deve permitir tarefa duplicada",""
+"passed","Sat Jun 22 15:56:41 GFT 2024","Sat Jun 22 15:56:41 GFT 2024","403","tarefas","exclusão","","","","deve remover uma tarefa",""
+"passed","Sat Jun 22 15:56:25 GFT 2024","Sat Jun 22 15:56:26 GFT 2024","1113","","home","","","","web app dev estar online",""
+"passed","Sat Jun 22 15:56:40 GFT 2024","Sat Jun 22 15:56:41 GFT 2024","526","tarefas","atualização","","","","deve concluir uma tarefa",""
+"passed","Sat Jun 22 15:56:40 GFT 2024","Sat Jun 22 15:56:40 GFT 2024","390","tarefas","cadastro","","","","campo obrigatorio",""
+"failed","Sat Jun 22 15:56:33 GFT 2024","Sat Jun 22 15:56:39 GFT 2024","5613","tarefas","cadastro","","","","deve cadastrar uma nova tarefa",""
